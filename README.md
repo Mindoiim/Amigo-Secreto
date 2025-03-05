@@ -11,5 +11,14 @@
 </ul>
 <h2>:mag: Demonstração</h2>
 <ul>
-  <li>Primeiramente, é necessário adicionar à lista um nome por vez</li>
-<h2>:pencil2: Autor</h2>
+  <li>Primeiramente, é necessário adicionar à lista um nome por vez, através do botão "Adicionar"</li>
+  <p></p>
+  <img src= https://github.com/Mindoiim/Amigo-Secreto/blob/main/img1.png alt= Aparência inicial do site>
+  <p></p>
+  <li>Após preencher a lista com os nomes que deseja sortear, apenas clique no botão "Sortear amigo"</li>
+  <p></p>
+  <img src= https://github.com/Mindoiim/Amigo-Secreto/blob/main/img2.png alt=Aparência com lista preenchida>
+  <p></p>
+  <li>Após clicar no botão "Sortear amigo", um dos nomes inseridos será sorteado e a lista será apagada.</li>
+  <p></p>
+  <img src= https://github.com/Mindoiim/Amigo-Secreto/blob/main/img3.png alt=Aparência após sorteio>
